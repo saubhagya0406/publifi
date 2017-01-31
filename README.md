@@ -1,4 +1,4 @@
-# publifi
+# publify
 
 
 publify Website repo by saubhagya
