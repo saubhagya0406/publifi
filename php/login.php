@@ -4,7 +4,7 @@ session_start();
 
 // Check if session is going on
 if(isset($_SESSION['validUser'])){
-    header("Location: http://localhost/publify/home.php");
+    header("Location: http://publify/home.php");
 }
 
 // Include Validator
